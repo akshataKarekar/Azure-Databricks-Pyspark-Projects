@@ -1,3 +1,4 @@
-PySpark-Project-SalesAnalysis:
+PySpark-Project-SalesAnalysis: Pyspark project for data analysis and manipulation of sales data on databricks platform. Inorder to view data visualizations, please import the file/run on databricks.
+Data used: Sales.csv
 
-This project showcases a starter file with various pyspeak commands
+
